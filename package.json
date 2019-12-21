@@ -54,7 +54,7 @@
     "moment": "^2.24.0",
     "moment-jalaali": "^0.8.3",
     "prop-types": "^15.7.2",
-    "react-native-common": "^3.1.0"
+    "react-native-common": "github:ghorbani-m/react-native-common.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
